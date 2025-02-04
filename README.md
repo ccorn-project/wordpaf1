@@ -1,2 +1,0 @@
-# myrepo
-w3dshop
